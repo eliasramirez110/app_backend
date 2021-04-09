@@ -1,4 +1,3 @@
-<img width="1125" alt="Screen Shot 2021-04-08 at 11 37 20 PM" src="https://user-images.githubusercontent.com/47678940/114124918-7261f880-98c3-11eb-8a59-554f57ec2325.png">
 # app_backend
 This will be the backend repo for my project
 For this project, I will build an e-commerce full stack application API that allows users to perform various CRUD operations. The objectives are as follows:
@@ -31,3 +30,4 @@ STRECH GOALS
 - ability to save "payment methods" for later use
 
 ATTACHED is an ERD that is still under construction 
+<img width="1125" alt="Screen Shot 2021-04-08 at 11 37 20 PM" src="https://user-images.githubusercontent.com/47678940/114124918-7261f880-98c3-11eb-8a59-554f57ec2325.png">
